@@ -8,17 +8,17 @@ This project aims to analyze a dataset containing information about various cars
 <br />
 
 *Features:*
-Make: The brand or manufacturer of the car.
+1. Make: The brand or manufacturer of the car.
 <br />
-Model: The specific model of the car.
+2. Model: The specific model of the car.
 <br />
-Year: The manufacturing year of the car.
+3. Year: The manufacturing year of the car.
 <br />
-Mileage: The total distance traveled by the car in miles.
+4. Mileage: The total distance traveled by the car in miles.
 <br />
-Price: The price of the car.
+5. Price: The price of the car.
 <br />
-Other Features: Additional attributes such as engine type, fuel efficiency, horsepower, etc.
+6. Other Features: Additional attributes such as engine type, fuel efficiency, horsepower, etc.
 <br />
 
 **Goals:**
