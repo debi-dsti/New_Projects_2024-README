@@ -6,7 +6,8 @@ Overview:
 <br />
 This project aims to analyze a dataset containing information about various cars. The dataset includes attributes such as make, model, year, mileage, price, and other relevant features. The analysis conducted in this project provides insights into the characteristics of different cars and explores relationships between these features.
 <br />
-Features:
+
+*Features:*
 Make: The brand or manufacturer of the car.
 Model: The specific model of the car.
 Year: The manufacturing year of the car.
