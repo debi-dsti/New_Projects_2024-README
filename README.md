@@ -3,4 +3,4 @@ Here are my new Innovative projects for 2024 are at the forefront of my focus. T
 1. https://github.com/debi-dsti/New_Projects_2024-README/tree/main/Dissease%20predition%20task (Disease Predictions With ML)
 2. https://github.com/debi-dsti/New_Projects_2024-README/blob/main/Obesity%20Risk%20Prediction (Obesity Risk Predictions With ML)
 3. https://github.com/debi-dsti/New_Projects_2024-README/tree/main/Car%20_data_Analysis (Car Data analysis with python)
-4. https://github.com/debi-dsti/New_Projects_2024-README/tree/main/London%20Housing%20Analysis ( Loandon Housing Analysis)
+4. https://github.com/debi-dsti/New_Projects_2024-README/tree/main/London%20Housing%20Analysis ( London Housing Analysis)
