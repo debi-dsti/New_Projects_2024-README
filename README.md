@@ -5,7 +5,9 @@ Here are my new Innovative projects for 2024 (FROM MIDIUM TO COMPLEX PROJECTS )a
 	
 
  <br>
-                                                 >MIDIUM PROJECTS:
+ 
+ ***MIDIUM PROJECTS:***
+ 
  <br>
 1. https://github.com/debi-dsti/New_Projects_2024-README/tree/main/Dissease%20predition%20task (Disease Predictions With ML)
  <br>
