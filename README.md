@@ -7,6 +7,7 @@ Here are my new Innovative projects for 2024 (FROM MIDIUM TO COMPLEX PROJECTS )a
  
  ***Data Analysis and ML PROJECTS:***
  <br>
+ <br\>
 1. https://github.com/debi-dsti/New_Projects_2024-README/tree/main/Dissease%20predition%20task (Disease Predictions With ML)
  <br>
 2. https://github.com/debi-dsti/New_Projects_2024-README/blob/main/Obesity%20Risk%20Prediction (Obesity Risk Predictions With ML)
