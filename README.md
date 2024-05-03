@@ -24,5 +24,8 @@ Here are my new Innovative projects for 2024 (FROM MIDIUM TO COMPLEX PROJECTS )a
  <br/>
  
  ***Data Engineering and ML PROJECTS:***
+ <br>
  ***Data business intelligence PROJECTS***
+ <br>
  ***Data project Managnament Projects***
+ <br/>
